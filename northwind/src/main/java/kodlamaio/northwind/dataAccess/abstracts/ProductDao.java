@@ -25,6 +25,5 @@ public interface ProductDao extends JpaRepository<Product,Integer>{
 	  
 	  //select * from products where product_name=bisey and categoryId=bisey
 	  
-	  //22.05 DERSTEYİZ
 	   
 }
